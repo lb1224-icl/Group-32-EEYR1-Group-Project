@@ -3,7 +3,7 @@
 
 // WiFi credentials
 const char* ssid = "ducky repeater";
-const char* password = "chigga123";
+const char* password = "c123";
 
 // Motor control pins for ESP8266 (D1, D2, D5, D6)
 const int IN1 = 5;   // D1 (GPIO5)
